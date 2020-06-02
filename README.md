@@ -10,6 +10,7 @@ TO have a quick workspace set-up, smooth transition between space set-ups and us
 
 BY publish reminders, pop-up interactive tools and mindful space sharing suggestions based on calendar activities.
 
+
 <B>The objectives of this project is to:<B>
 
 MEMORIZE user habits and work patterns
@@ -18,21 +19,22 @@ SYNC to calender and assist work-session
 
 PROJECT customized workspace
 
-<B>WORKFLOW:<B>
 
-<B>DATA COLLECTION<B>
+<B>WORKFLOW:<B>
 
 <B>DATA COLLECTION & LOGGING SETUP<B>
 
 1/Defining SET OF ACTIVITIES to work with
 
-![](images/defining%20space.jpg)
-
 2/Selecting RANGE OF OBJECTS to detect
 
 3/Defining WORKSPACE BOUNDARIES
 
+![](images/defining%20space.jpg)
+
 4/Recording a series of WORKSPACE TASKS
+
+![](images/raw%201.gif)
 
 5/Performing OBJECT DETECTION on dataset
 
