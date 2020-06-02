@@ -22,6 +22,8 @@ PROJECT customized workspace
 
 <B>WORKFLOW:<B>
 
+![](images/FLOW.jpg)
+
 <B>DATA COLLECTION & LOGGING SETUP<B>
 
 1/Defining SET OF ACTIVITIES to work with
