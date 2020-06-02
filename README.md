@@ -4,25 +4,19 @@ an AI Powered AR Character in Unity with AR Foundation.
 
 <B>The aim of this project is to:<B>
 
-<B>FACILITATE/<B> 
-development of workspace habits and accessibility to preferred tools & objects.
+FACILITATE development of workspace habits and accessibility to preferred tools & objects.
 
-<B>TO/<B> 
-have a quick workspace set-up, smooth transition between space set-ups and user-id based intuitive workspaces.
+TO have a quick workspace set-up, smooth transition between space set-ups and user-id based intuitive workspaces.
 
-<B>BY/<B> 
-publish reminders, pop-up interactive tools and mindful space sharing suggestions based on calendar activities.
+BY publish reminders, pop-up interactive tools and mindful space sharing suggestions based on calendar activities.
 
 <B>The objectives of this project is to:<B>
 
-<B>MEMORIZE/<B> 
-user habits and work patterns
+MEMORIZE user habits and work patterns
 
-<B>SYNC/<B> 
-to calender and assist work-session
+SYNC to calender and assist work-session
 
-<B>PROJECT/<B> 
-customized workspace
+PROJECT customized workspace
 
 <B>WORKFLOW:<B>
 
