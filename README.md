@@ -26,6 +26,8 @@ PROJECT customized workspace
 
 1/Defining SET OF ACTIVITIES to work with
 
+![](images/defining%20space.jpg)
+
 2/Selecting RANGE OF OBJECTS to detect
 
 3/Defining WORKSPACE BOUNDARIES
