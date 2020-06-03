@@ -42,7 +42,7 @@ PROJECT customized workspace
 
 ![](images/raw1.gif) ![](images/raw4.gif)
 
-5/Performing OBJECT DETECTION on dataset
+5/Performing OBJECT DETECTION on dataset (Darknet Neural network, Yolo + OpenCV)
 
 ![](images/od1.gif) ![](images/od4.gif)
 
