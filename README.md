@@ -64,7 +64,9 @@ This is the data collection output to Unity.
 
 <B> AR UNITY APP <B>
 
-Set up main APP framework .
+Set up main APP framework.
+
+![](images/AR.jpg)
 
 Get the anchor points from the data collection step and perform either QR code recognition or image detection.
 
