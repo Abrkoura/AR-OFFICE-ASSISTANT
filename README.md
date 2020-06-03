@@ -30,27 +30,35 @@ PROJECT customized workspace
 
 2/Selecting RANGE OF OBJECTS to detect
 
+![](images/dataset.jpg)
+
 3/Defining WORKSPACE BOUNDARIES
 
 ![](images/defining%20space.jpg)
 
 4/Recording a series of WORKSPACE TASKS
 
-![](images/raw%201.gif)
+![](images/raw1.gif) ![](images/raw4.gif)
 
 5/Performing OBJECT DETECTION on dataset
 
-Define a working space (assign a bounding square to your object scene):
+![](images/od1.gif) ![](images/od4.gif)
 
-<B> Size of the workspace <B>
+6/Define a workspace boundaries by marking the corners:
+Size of the workspace: 800 x 650 mm 
 
-Make a matrix of this square working space and define the position of each tracked object in this matrix over time (optical flow)
+Make a matrix of this bounding surface and define the position of each tracked object in this matrix over time (optical flow)
 
-Return: for each activity, work patterns 
+![](images/of2.gif) ![](images/of3.gif) 
+
+then return for each activity and work patterns 
+
+![](images/of1.gif) 
 
 Log work patterns & log anchor points for the working space 
 
 This is the data collection output to Unity. 
+
 
 <B> AR UNITY APP <B>
 
