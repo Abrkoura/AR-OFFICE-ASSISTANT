@@ -28,6 +28,8 @@ PROJECT customized workspace
 
 1/Defining SET OF ACTIVITIES to work with
 
+![](images/activities.jpg)
+
 2/Selecting RANGE OF OBJECTS to detect
 
 ![](images/dataset.jpg)
