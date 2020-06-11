@@ -4,11 +4,7 @@ an AI Powered AR Character in Unity with AR Foundation.
 
 <B>The aim of this project is to:<B>
 
-FACILITATE development of workspace habits and accessibility to preferred tools & objects.
-
-TO have a quick workspace set-up, smooth transition between space set-ups and user-id based intuitive workspaces.
-
-BY publish reminders, pop-up interactive tools and mindful space sharing suggestions based on calendar activities.
+Aiming to develop an AR office assistant, the project is centered around exploring core notions about the future development of workspaces, what being a digital nomad means presently and how technology can better assist the users of co-working spaces.
 
 
 <B>The objectives of this project is to:<B>
@@ -19,6 +15,7 @@ SYNC to calender and assist work-session
 
 PROJECT customized workspace
 
+![](images/3.png)
 
 <B>WORKFLOW:<B>
 
@@ -55,7 +52,7 @@ Make a matrix of this bounding surface and define the position of each tracked o
 
 then return for each activity and work patterns 
 
-![](images/of1.gif) 
+![](images/of1.gif) ![](images/5.png)
 
 Log work patterns & log anchor points for the working space 
 
@@ -67,19 +64,9 @@ This is the data collection output to Unity.
 Set up main APP framework.
 
 ![](images/AR.jpg)
-
-Get the anchor points from the data collection step and perform either QR code recognition or image detection.
-
-Setting 4 corners will be used as the anchor point to Anchor my AR projection. 
-
-In AR, project the matrix from the DATA collection step (grid-ify our space): 
-
-Get user calendar integration (build this in as the front-end interface-> in the AR app frontend builder, you will need to build a series of buttons and input fields so that the user can click and sync their calendar)
-
-Implement object detection in real-time (tensorflow lite and or Wikitude): you need to look at the matrix and tell what objects are currently in the scene, and WHERE there is open space on the matrix 
-
-Based on activity, you can recommend that the user moves the existing objects (on-screen pointers and then optical flow tracking of the object)
-
-For the empty space on the matrix, you can project different third party apps: calculator, drawing tool etc.
-
-Lastly, ImplementING finger tracking and response.
+![](images/Optical flow homography.jpg)
+![](images/IBM cloud.jpg)
+![](images/8.png)
+![](images/8.gif)
+![](images/unity2.gif)
+![](images/unity1.gif)
