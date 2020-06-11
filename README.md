@@ -64,9 +64,8 @@ This is the data collection output to Unity.
 Set up main APP framework.
 
 ![](images/AR.jpg)
-![](images/Optical flow homography.jpg)
-![](images/IBM cloud.jpg)
+![](images/Optical%20flow%20homography.jpg)
+![](images/IBM%20cloud.jpg)
 ![](images/8.png)
 ![](images/8.gif)
-![](images/unity2.gif)
-![](images/unity1.gif)
+![](images/unity2.gif) ![](images/unity1.gif)
