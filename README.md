@@ -68,4 +68,4 @@ Set up main APP framework.
 ![](images/IBM%20cloud.jpg)
 ![](images/8.png)
 ![](images/8.gif)
-![](images/unity2.gif) ![](images/unity1.gif)
+![](images/unity1.gif)
