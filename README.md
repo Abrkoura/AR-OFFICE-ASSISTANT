@@ -56,14 +56,18 @@ then return for each activity and work patterns
 
 Log work patterns & log anchor points for the working space
 
+
+<B>Objectdetection.py<B>
+  
 ![](images/1.jpg)
-dependencies = Opencv + Numpy 
-but you need the trainned coco dataset + yolov3 weights
+In Order to use the python file uploaded,first you have to install these dependencies:
+<B>Opencv + Numpy<B> 
+(and you need the trainned coco dataset + yolov3 weights)
 
 This is the data collection output to Unity. 
 
 
-///////////////////////////////////////////////<B> AR UNITY APP <B>///////////////////////////////////////////
+////////////////////////////////////////////////<B>AR UNITY APP<B>////////////////////////////////////////////////
 
 Set up main APP framework.
 
