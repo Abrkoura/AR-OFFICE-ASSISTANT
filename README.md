@@ -54,7 +54,11 @@ then return for each activity and work patterns
 
 ![](images/of1.gif) ![](images/5.png)
 
-Log work patterns & log anchor points for the working space 
+Log work patterns & log anchor points for the working space
+
+![](images/1.jpg)
+dependencies = Opencv + Numpy 
+but you need the trainned coco dataset + yolov3 weights
 
 This is the data collection output to Unity. 
 
